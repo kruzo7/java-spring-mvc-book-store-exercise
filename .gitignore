@@ -1,0 +1,12 @@
+#JavaSpringMVC_Exercise ignore files
+bin/
+target/
+test-output/
+.idea
+.settings
+_ReadMe
+*.log
+.classpath
+.project
+.gradle
+*.iml
